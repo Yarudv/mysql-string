@@ -1,0 +1,5 @@
+Integrantes:
+Yaruska Diaz
+Patricio Pinto 
+
+RUTA REPOSITORIO https://github.com/Yarudv/mysql-string.git
